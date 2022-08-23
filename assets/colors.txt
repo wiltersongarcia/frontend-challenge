@@ -1,0 +1,2 @@
+Background Color: #161819
+Contrast Color: #fd7727
