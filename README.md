@@ -20,7 +20,7 @@ You should develop a simple project using VueJS to read an [external API](https:
 
 ### Bonus Items (_these items are not required_)
 
-- [ ] Authenticate with a web3 wallet (e.g. Metamask and [Moralis](https://v1docs.moralis.io/moralis-dapp/users/web3-login/metamask))
+- [ ] Authenticate with a web3 wallet (e.g. [Moralis](https://v1docs.moralis.io/moralis-dapp/users/web3-login/metamask), [Ethers.js](https://docs.ethers.io/v5/), [Alchemy](https://docs.alchemy.com/reference/use-alchemyweb3js))
 - [ ] [ViteJS](https://vitejs.dev/)
 - [ ] SSR
 
