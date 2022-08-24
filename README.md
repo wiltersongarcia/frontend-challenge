@@ -27,3 +27,7 @@ You should develop a simple project using VueJS to read an [external API](https:
 ## Requirements
 
 - [ ] Vue 3
+
+## Layout
+
+![layout image](https://raw.githubusercontent.com/wiltersongarcia/frontend-challenge/main/assets/layout-frontend.webp?token=GHSAT0AAAAAABXVHZA7UNBAHXEKGN226GB4YYFK4YA)
